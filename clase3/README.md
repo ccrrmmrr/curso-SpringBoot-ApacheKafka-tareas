@@ -1,4 +1,4 @@
-## 🎯 Tarea 3 - Arquitectura Profesional en Capas
+## 🎯 Tarea 3. Refuerzo de arquitectura, validaciones y relación 1:N
 
 ### 📊 Información del Proyecto
 - **Desarrollador:** cmartinez

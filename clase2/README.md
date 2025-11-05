@@ -1,5 +1,5 @@
 
-## 🎯 Tarea 2 - CRUD Básico de Cursos
+## 🎯 Tarea 2. CRUD Básico de Productos
 
 ### Objetivo
 Construir un CRUD completo para la entidad Curso utilizando Spring Data JPA, Docker Compose y pruebas con cURL/Postman.
