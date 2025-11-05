@@ -183,9 +183,9 @@ curl -X DELETE http://localhost:8080/api/cursos/1
 
 ## Screenshots
 - [Repositorio Publico](https://github.com/ccrrmmrr/mi-primer-springboot)
-- [SpringBoot](https://github.com/ccrrmmrr/devops_microk8s/tree/main/Screemshots/part05/verificar_ingres.PNG)
-- [Operaciones](https://github.com/ccrrmmrr/devops_microk8s/tree/main/Screemshots/part05/verificar_ingres.PNG)
-- [Docker_Compose](https://github.com/ccrrmmrr/devops_microk8s/tree/main/Screemshots/part05/verificar_ingres.PNG)
+- [SpringBoot](https://github.com/ccrrmmrr/curso-SpringBoot-ApacheKafka-tareas/blob/main/clase2/screenshots/log_springBoot01.PNG)
+- [Operaciones](https://github.com/ccrrmmrr/curso-SpringBoot-ApacheKafka-tareas/blob/main/clase2/screenshots/operaciones_CRUD.PNG)
+- [Docker_Compose](https://github.com/ccrrmmrr/curso-SpringBoot-ApacheKafka-tareas/blob/main/clase2/screenshots/docker_compose_ps.PNG)
 
 
 
