@@ -1,21 +1,3 @@
-# Mi Primer Proyecto Spring Boot Moderno
-
-## Información del Proyecto
-
-- **Nombre:** mi-primer-springboot
-- **Desarrollador:** cmartinez
-- **Versión de Spring Boot:** 3.5.7
-- **Java:** 17
-- **Build Tool:** Maven 3.9+
-- **Arquitectura:** Docker + Spring Boot + PostgreSQL
-
-## 🚀 Características
-
-- ✅ Entorno de desarrollo con Docker
-- ✅ Spring Boot 3.x con Java 17
-- ✅ API REST completa para gestión de cursos
-- ✅ PostgreSQL integrado y persistente
-- ✅ Configuración moderna y reproducible
 
 ## 🎯 Tarea 2 - CRUD Básico de Cursos
 
@@ -68,6 +50,23 @@ mi-primer-springboot/
 │ └── 📁 mi_primer_springboot/
 │ └── 🧪 MiPrimerSpringbootApplicationTests.java
 ```
+
+## Información del Proyecto
+
+- **Nombre:** mi-primer-springboot
+- **Desarrollador:** cmartinez
+- **Versión de Spring Boot:** 3.5.7
+- **Java:** 17
+- **Build Tool:** Maven 3.9+
+- **Arquitectura:** Docker + Spring Boot + PostgreSQL
+
+## 🚀 Características
+
+- ✅ Entorno de desarrollo con Docker
+- ✅ Spring Boot 3.x con Java 17
+- ✅ API REST completa para gestión de cursos
+- ✅ PostgreSQL integrado y persistente
+- ✅ Configuración moderna y reproducible
 
 ## 🏃 Cómo Ejecutar
 
